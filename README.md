@@ -1,2 +1,5 @@
-# PythonDSBook
-Introduction to Python Data Analysis
+# Pythonデータ解析入門
+
+## ライセンス
+本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
+
