@@ -1,5 +1,5 @@
 # Pythonデータ解析入門
 
 ## ライセンス
-本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)に従います。
+本リポジトリのソースコードは[MITライセンス](https://github.com/PythonDSBook/notebooks/blob/main/LICENSE)に従います。
 
